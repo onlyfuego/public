@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: CC-BY-NC-ND
 pragma solidity ^0.8.20;
 pragma abicoder v2;
 
